@@ -82,7 +82,7 @@ btns.forEach((el,i) => {
 
 });
 
-
+btns[0].click()
 }
 
 let i =0
@@ -109,5 +109,5 @@ btns[i].click()
 
 setInterval(() => {
     auto()
-}, 1000);
+}, 7000);
 
